@@ -1,4 +1,4 @@
-# NeuroDecode Lab
+# NeuroDecode Lab 
 
 ## Know When Your BCI Doesn't Know
 
